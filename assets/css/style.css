@@ -24,6 +24,7 @@ body {
     color: #d9dcd6;
 }
 
+/* The three headers here are targeting the navigation links at the top right of the page */
 .header nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -50,6 +51,7 @@ p {
     font-size: 16px;
 }
 
+/* This formats the background image */
 .hero {
     height: 800px;
     width: 100%;
@@ -86,6 +88,7 @@ p {
     background-color: #2589bd;
 }
 
+/* The blurbs on the right are formatted here */
 .benefits-interior {
     margin-bottom: 32px;
     color: #ffffff;
@@ -102,6 +105,7 @@ p {
     max-width: 150px;
 }
 
+/* The middle sections are optimized here, with some more specific tags for certain elements */
 .search-engine-optimization {
     margin-bottom: 20px;
     padding: 50px;
